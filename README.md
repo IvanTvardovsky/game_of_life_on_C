@@ -12,6 +12,8 @@ The input data is a set of zeros and ones with a size of 25x80. You can submit d
       
   > gcc game_of_life.c -lncurses -o game_of_life.o
       
-  > ./game_of_life.o < test1.txt
+  > ./game_of_life.o < data/test1.txt
       
   You may need to download ncurses packages.
+  
+  ![giphy gif](https://github.com/IvanTvardovsky/game_of_life_on_C/blob/main/pics/readme.gif)
