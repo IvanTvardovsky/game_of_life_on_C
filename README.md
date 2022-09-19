@@ -16,4 +16,4 @@ The input data is a set of zeros and ones with a size of 25x80. You can submit d
       
   You may need to download ncurses packages.
   
-  ![giphy gif](https://github.com/IvanTvardovsky/game_of_life_on_C/blob/main/pics/readme.gif)
+  ![giphy gif](https://github.com/IvanTvardovsky/game_of_life_on_C/blob/main/pics/rdme.gif)
